@@ -1,7 +1,6 @@
 ## Olá, Sou Guilherme
 
 💻 - Analista de Redes e Dados de Comunicação|| <br>
-🧑🏾‍💻 - Em busca da tão sonhada vaga de dev|| <br>
 🗣️ - Inglês Intermediário|| <br>
 📚 - Graduado em Engenharia de Computação|| <br>
 
