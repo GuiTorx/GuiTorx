@@ -1,13 +1,9 @@
 ## Olá, Sou Guilherme
 
-💻 - Analista de Sistemas|| <br>
+💻 - Analista de Redes e Dados de Comunicação|| <br>
 🧑🏾‍💻 - Em busca da tão sonhada vaga de dev|| <br>
-📝 - Experiência com Redes e infraestrutura|| <br>
 🗣️ - Inglês Intermediário|| <br>
-📚 - Graduado em Análise e Desenvolvimento de Sistemas|| <br>
-📚 - Concluíndo a segunda gradução em Desenvolvimento de Software Multiplataforma|| <br>
-
-
+📚 - Graduado em Engenharia de Computação|| <br>
 
 <a href="https://github.com/GuiTorx/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiTorx&show_icons=true&theme=radical" />
