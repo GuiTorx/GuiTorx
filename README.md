@@ -1,5 +1,5 @@
 ## Olá, Sou Guilherme
-
+<div  align="center" >
 💻 - Analista de Redes e Dados de Comunicação|| <br>
 🗣️ - Inglês Intermediário|| <br>
 📚 - Graduado em Engenharia de Computação|| <br>
@@ -12,7 +12,8 @@
 </a>
 
 ##
-Aprendendo e utilizando:
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
 <div style="display: inline_block" >
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
@@ -26,12 +27,6 @@ Aprendendo e utilizando:
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img  width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
 </div>  
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiTorx/GuiTorx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiTorx/GuiTorx/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
 
 ##
 ## Redes Sociais:
