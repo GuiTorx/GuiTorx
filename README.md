@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme Torres</h1>
+<h1 align="center">👋 Olá, eu sou o Guilherme</h1>
 
 <p align="center">
 💻 Analista de Redes e Dados de Comunicação  •  ☁️ Cloud & Dados em Evolução  •  ⚙️ Automação & Segurança  
