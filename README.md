@@ -54,5 +54,5 @@
 ---
 
 <div align="center">
-✨ _“Conecto redes, nuvens e dados para transformar infraestrutura em inovação.”_ ✨
+“O sucesso é a soma de pequenos esforços, repetidos dia após dia.”
 </div>
