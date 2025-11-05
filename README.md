@@ -57,6 +57,7 @@
 “O sucesso é a soma de pequenos esforços, repetidos dia após dia.”
 </div>
 <div align="center">
-  <img src="https://github.com/GuiTorX/GuiTorX/blob/output/dist/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/GuiTorX/GuiTorX/output/dist/snake.svg" alt="snake animation"/>
 </div>
+
 
