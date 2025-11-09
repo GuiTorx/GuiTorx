@@ -1,34 +1,43 @@
-name: generate-snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"     # todos os dias 00:00 UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"        # roda todo dia 00:00 UTC
+  workflow_dispatch:            # permite rodar manualmente
+  push:                         # (3) regenera quando você fizer commit no repo de perfil
+    branches:
+      - main                    # ajuste se seu default branch tiver outro nome
 
 permissions:
-  contents: write            # permite publicar na branch 'output'
+  contents: write               # necessário para publicar na branch 'output'
+
+concurrency:
+  group: snake-${{ github.ref }}  # evita execuções simultâneas
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake (GitHub Dark + verdes)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: GuiTorX
-          # gera dentro de 'dist/'
-          outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#A371F7&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      # passo opcional: mostrar o que foi gerado (ajuda a debugar)
-      - name: List generated files
+      - name: Generate snake (light + dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: GuiTorx
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark&color_snake=#A371F7&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+
+      - name: List generated files (debug)
         run: ls -la dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output    # publica na branch 'output'
-          build_dir: dist          # publica o conteúdo de 'dist/'
+          target_branch: output
+          build_dir: dist
           commit_message: "chore: update snake.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
