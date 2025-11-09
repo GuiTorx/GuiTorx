@@ -24,8 +24,6 @@
 
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 
-<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
-
 <div align="center" style="display: inline_block"><br>
   <!-- Linguagens -->
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
