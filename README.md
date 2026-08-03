@@ -34,8 +34,8 @@ Atualmente, continuo aprimorando meus conhecimentos em desenvolvimento, bancos d
 - 🐳 Utilização de Docker e ambientes containerizados
 - ☁️ Estudando tecnologias de Cloud Computing
 - 🔐 Interesse em segurança da informação
-- 🐧 Experiência com Linux e linha de comando
-- 📘 Inglês em desenvolvimento
+- 🐧 Experiência com Linux e Windows Server
+- 📘 Inglês
 
 ---
 
