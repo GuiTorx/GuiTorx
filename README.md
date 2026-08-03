@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre
 
 Sou graduado em **Engenharia de Computação**, atuo como **Analista de Redes / Dados de Comunicação** e **Desenvolvedor**
 
