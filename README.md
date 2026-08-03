@@ -72,23 +72,6 @@ Atualmente, continuo aprimorando meus conhecimentos em desenvolvimento, bancos d
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=GuiTorx&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub de Guilherme Torre"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiTorx&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true"
-    alt="Linguagens mais utilizadas por Guilherme Torre"
-  />
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 Transformando conhecimento em soluções através da tecnologia.
