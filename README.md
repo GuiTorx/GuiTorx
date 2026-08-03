@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Guilherme Torre 👋</h1>
 
 <h3 align="center">
-  Desenvolvedor • Analista de Redes e Dados de Comunicação
+  Analista de Redes e Dados de Comunicação • Desenvolvedor
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **desenvolvedor**, graduado em **Engenharia de Computação** e atuo como **Analista de Redes e Dados de Comunicação**.
+Sou graduado em **Engenharia de Computação**, atuo como **Analista de Redes / Dados de Comunicação** e **Desenvolvedor**
 
 Tenho experiência com redes, infraestrutura de telecomunicações e análise de dados. Também desenvolvo aplicações, scripts e automações voltados à resolução de problemas e à otimização de processos.
 
