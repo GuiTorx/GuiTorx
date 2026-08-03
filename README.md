@@ -8,8 +8,8 @@
 
 <div align="center">
 
-📘 **Inglês Intermediário**
 🎓 **Graduado em Engenharia de Computação**
+📘 **Inglês**
 
 <a href="https://github.com/GuiTorx">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiTorx&show_icons=true&theme=tokyonight" />
